@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://andrehenrique311085-debug.github.io/noobs-unidos-site/sitemap.xml
